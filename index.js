@@ -11,7 +11,7 @@ const BASE_URL = "https://api.weather.com/v2/pws/observations/"
 console.log("Started the program")
 
 const connection = mysql.createConnection({
-    host: '10.149.1.125',
+    host: 'localhost',
     port: 3306,
     user: 'daveleron',
     password: 'a$EQ4d8V#k',
