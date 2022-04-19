@@ -42,6 +42,6 @@ function gatherData() {
 })
 }
 
-setInterval(gatherData, 5000)
+setInterval(gatherData, 300000)
 
 
